@@ -7,4 +7,5 @@ I originally authored most of these documents in MS Word, and their layout has c
 Also, note that some of these samples are assignments that I did for my technical writing certification. I have added background information in some places to give the readers a better idea of the nature of the document and the work that went into creating it.
 
 Thank you,
+
 Bhramara
